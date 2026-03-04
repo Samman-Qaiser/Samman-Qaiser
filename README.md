@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Samman Sheikh</h1>
+<h3 align="center">Full Stack Developer | MERN | Next.js | AI Enthusiast</h3>
 
-<!--
-**Samman-Qaiser/Samman-Qaiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently building scalable web apps  
+🧠 Exploring AI & Deep Learning  
+🔥 2+ years experience in modern web development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- React.js
+- Next.js
+- Node.js
+- Express
+- MongoDB
+- Firebase
+- Tailwind CSS
+- Python
+
+---
+
+### 📌 Featured Projects
+- AI Acne Detection System
+- APK Management System
+- Shopify E-commerce Store
+- YouTube Trading Platform
+
+---
+
+### 📫 Connect with me
+LinkedIn | Portfolio | Email
