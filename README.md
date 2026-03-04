@@ -29,3 +29,5 @@
 
 ### 📫 Connect with me
 LinkedIn | Portfolio | Email
+![App Screenshot](./assets/home.png)
+
