@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jfif" width="100%" alt="Samman Qaiser Banner" />
+  <img src="./bannner.jfif" width="100%" alt="Samman Qaiser Banner" />
 </p>
 
 <h1 align="center">─── SAMMAN QAISER ───</h1>
@@ -61,6 +61,4 @@ I specialize in building **scalable web ecosystems** and **AI-driven interfaces*
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%" />
 </p>
 
-<p align="center">
-  <i>"Simplicity is the ultimate sophistication."</i> — Arthur Schopenhauer (Vibes)
-</p>
+
