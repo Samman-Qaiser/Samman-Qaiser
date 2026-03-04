@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" />
+  <img src="./banner.jfif" width="100%" />
 </p>
 
 <h1 align="center">Samman Qaiser</h1>
@@ -16,7 +16,7 @@
 I build high-performance web applications with modern stacks like MERN and Next.js.  
 Currently exploring AI-driven systems & deep learning models.
 
-- 🚀 2+ Years Development Experience  
+- 🚀 4+ Years Development Experience  
 - 🔥 Focused on Clean UI & Performance  
 - 🧩 Problem Solver & System Thinker  
 
