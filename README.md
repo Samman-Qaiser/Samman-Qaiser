@@ -2,7 +2,7 @@
   <img src="./banner.png" width="100%" />
 </p>
 
-<h1 align="center">Samman Sheikh</h1>
+<h1 align="center">Samman Qaiser</h1>
 <h3 align="center">Full Stack Developer • MERN • Next.js • AI Systems</h3>
 
 <p align="center">
