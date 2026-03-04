@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jfif" width="100%" />
+  <img src="./bannner.jfif" width="100%" />
 </p>
 
 <h1 align="center">Samman Qaiser</h1>
