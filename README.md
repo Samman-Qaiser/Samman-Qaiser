@@ -1,54 +1,66 @@
 <p align="center">
-  <img src="./bannner.jfif" width="100%" />
+  <img src="./banner.jfif" width="100%" alt="Samman Qaiser Banner" />
 </p>
 
-<h1 align="center">Samman Qaiser</h1>
-<h3 align="center">Full Stack Developer • MERN • Next.js • AI Systems</h3>
+<h1 align="center">─── SAMMAN QAISER ───</h1>
 
 <p align="center">
-  Crafting scalable digital experiences with premium UI & performance-driven architecture.
+  <kbd>Full Stack Engineer</kbd> • <kbd>MERN Specialist</kbd> • <kbd>AI Architect</kbd>
 </p>
-
----
-
-## 🧠 About Me
-
-I build high-performance web applications with modern stacks like MERN and Next.js.  
-Currently exploring AI-driven systems & deep learning models.
-
-- 🚀 4+ Years Development Experience  
-- 🔥 Focused on Clean UI & Performance  
-- 🧩 Problem Solver & System Thinker  
-
----
-
-## 🛠 Tech Arsenal
 
 <p align="center">
-React • Next.js • Node.js • Express • MongoDB • Firebase • Tailwind • Python • TensorFlow
+  <b>Crafting high-fidelity digital experiences where premium aesthetics meet performance-driven architecture.</b>
 </p>
-
----
-
-## 🚀 Featured Work
-
-| Project | Description |
-|----------|-------------|
-| AI Acne Detection | DenseNet-121 based multi-label classifier |
-| APK Management System | Firebase powered admin-user panel |
-| Shopify Store | Full custom automation & payment integration |
-| AI Background Remover | MERN + AI processing system |
-
----
-
-## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🤝 Connect
+### ⚡ The Philosophy
 
-LinkedIn • Portfolio • Email
+I specialize in building **scalable web ecosystems** and **AI-driven interfaces**. My approach combines the raw power of the MERN stack with the fluid motion of GSAP and Framer Motion to create "butter-smooth" user journeys.
+
+* **Experience:** 4+ Years of Engineering Excellence
+* **Focus:** High-End UI/UX & System Scalability
+* **Current Pursuit:** Deep Learning for Image Classification & Intelligent Automation
+
+---
+
+### 🛠 Tech Arsenal
+
+<div align="center">
+
+| Core | Frontend | Backend & AI |
+| :--- | :--- | :--- |
+| **Languages** | JavaScript (ES6+), Python, C++ | Node.js, Express, TensorFlow |
+| **Frameworks** | React.js, Next.js (App Router) | MongoDB, Firebase, PostgreSQL |
+| **Styling** | Tailwind CSS, GSAP, Framer Motion | Shopify Liquid, WordPress |
+
+</div>
+
+---
+
+### 🚀 Selected Works
+
+> [!TIP]
+> **Featured Project: AI Acne Detection**
+> A multi-label classifier built on DenseNet-121 architecture for clinical-grade precision.
+
+#### ✧ High-Impact Projects
+* **Elexci & Doritaaga:** Custom e-commerce solutions with complex payment & automation flows.
+* **APK Management System:** A secure, Firebase-powered administrative ecosystem.
+* **AI Background Remover:** Real-time image processing utilizing MERN & Deep Learning.
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%" />
+</p>
+
+<p align="center">
+  <i>"Simplicity is the ultimate sophistication."</i> — Arthur Schopenhauer (Vibes)
+</p>
