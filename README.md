@@ -44,16 +44,26 @@ I specialize in building **scalable web ecosystems** and **AI-driven interfaces*
 
 ---
 
-### 🚀 Selected Works
+### 🚀 Featured Engineering Works
 
-> [!TIP]
-> **Featured Project: AI Acne Detection**
-> A multi-label classifier built on DenseNet-121 architecture for clinical-grade precision.
+#### 🤖 AI & Machine Learning
+* **[BlemishBot](https://github.com/Samman-Qaiser/Acne-Classification-System):** Deep Learning system (ResNet50/DenseNet121) for dermatological acne classification.
+* **[BG Removal App](https://bg-removal-pearl-two.vercel.app):** AI-powered background extraction tool built with MERN & Clip Drop API.
 
-#### ✧ High-Impact Projects
-* **Elexci & Doritaaga:** Custom e-commerce solutions with complex payment & automation flows.
-* **APK Management System:** A secure, Firebase-powered administrative ecosystem.
-* **AI Background Remover:** Real-time image processing utilizing MERN & Deep Learning.
+#### 🛒 E-Commerce & Systems (MERN)
+* **[Doritaaga by Kriti](https://ecommerce-user-side.vercel.app/):** Premium handloom store with Stripe, TanStack Query, and a high-end Admin Panel.
+* **[Course Selling Platform](https://course-selling-platform-oao8.vercel.app/):** Full-stack LMS with OTP auth, JWT, and Cloudinary storage.
+* **[Physiotherapist Panel](https://physiotherapistwebapp2.vercel.app):** Medical clinic management with real-time inventory and appointment scheduling.
+* **[Teacher Web Panel](https://teacher-web-panel-2-0.vercel.app):** Scalable educational dashboard using ShadCN and MongoDB.
+
+#### 🎨 Creative Frontend & UI (Awwwards Style)
+* **[Ochi Design](https://ochi-j5lr.vercel.app/):** High-end agency landing page with complex GSAP scroll triggers.
+* **[Sundown Studio](https://sundown-studio-six-iota.vercel.app/):** Award-winning animation replica focused on smooth motion.
+* **[Him Aura](https://himauraglobalsollutions.in/):** Refined WordPress & GSAP integration for a Shimla-based enterprise.
+
+#### 🛍 Shopify & WordPress Solutions
+* **[Kaira Luxury](https://www.kaira.luxury/):** High-ticket perfume brand with WhatsApp automation & custom checkout.
+* **[Surya String](https://suryastring.in/):** End-to-end Shopify setup with Zapier automation and Shiprocket integration.
 
 ---
 
